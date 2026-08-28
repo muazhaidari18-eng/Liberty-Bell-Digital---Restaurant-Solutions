@@ -1,0 +1,6 @@
+{
+  "name": "Liberty Bell Digital - Restaurant AI Receptionist",
+  "description": "Meta ad landing page for Liberty Bell Digital AI Receptionist tailored for restaurants, cafés, and takeout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
